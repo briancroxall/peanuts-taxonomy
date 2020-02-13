@@ -67,27 +67,27 @@
     
         <category xml:id="transitions"><!-- A list of transitions as designated by Scott McCloud in Understanding Comics, ch. 3  -->
             
-            <category xml:id="m2m">
+            <category xml:id="tr-m2m">
                 <catDesc>moment-to-moment</catDesc>
             </category>
             
-            <category xml:id="act2act">
+            <category xml:id="tr-act2act">
                 <catDesc>action-to-action</catDesc>
             </category>
             
-            <category xml:id="sub2sub">
+            <category xml:id="tr-sub2sub">
                 <catDesc>subject-to-subject</catDesc>
             </category>
             
-            <category xml:id="scene2scene">
+            <category xml:id="tr-scene2scene">
                 <catDesc>scene-to-scene</catDesc>
             </category>
             
-            <category xml:id="asp2asp">
+            <category xml:id="tr-asp2asp">
                 <catDesc>aspect-to-aspect</catDesc>
             </category>
             
-            <category xml:id="non-seq">
+            <category xml:id="tr-non-seq">
                 <catDesc>non-sequitur</catDesc>
             </category>
             
