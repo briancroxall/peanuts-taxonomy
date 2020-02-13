@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<taxonomy xmlns="http://www.tei-c.org/ns/1.0">
+        <category xml:id="characters">
+            
+            <category xml:id="c-cb">
+                <catDesc>Charlie Brown</catDesc>
+            </category>
+            
+            <category xml:id="c-shermy">
+                <catDesc>Shermy</catDesc>
+            </category>
+            
+            <category xml:id="c-patty">
+                <catDesc>Patty</catDesc>
+            </category>
+
+            <category xml:id="c-snoopy">
+                <catDesc>Snoopy</catDesc>
+            </category>
+
+            <category xml:id="c-violet">
+                <catDesc>Violet</catDesc>
+            </category>
+
+            <category xml:id="c-schroeder">
+                <catDesc>Schroeder</catDesc>
+            </category>
+            
+            <category xml:id="c-lucy">
+                <catDesc>Lucy van Pelt</catDesc>
+            </category>
+            
+            <category xml:id="c-linus">
+                <catDesc>Linus van Pelt</catDesc>
+            </category>
+            
+            <category xml:id="c-sally">
+                <catDesc>Sally Brown</catDesc>
+            </category>
+            
+        </category>
+        
+        <category xml:id="seasons">
+            <category xml:id="fall">
+                <catDesc>Fall</catDesc>
+            </category>
+        </category>
+        
+        
+        <category xml:id="settings">
+            
+        </category>
+    
+        <category xml:id="transitions"><!-- A list of transitions as designated by Scott McCloud in Understanding Comics, ch. 3  -->
+            
+            <category xml:id="m2m">
+                <catDesc>moment-to-moment</catDesc>
+            </category>
+            
+            <category xml:id="act2act">
+                <catDesc>action-to-action</catDesc>
+            </category>
+            
+            <category xml:id="sub2sub">
+                <catDesc>subject-to-subject</catDesc>
+            </category>
+            
+            <category xml:id="scene2scene">
+                <catDesc>scene-to-scene</catDesc>
+            </category>
+            
+            <category xml:id="asp2asp">
+                <catDesc>aspect-to-aspect</catDesc>
+            </category>
+            
+            <category xml:id="non-seq">
+                <catDesc>non-sequitur</catDesc>
+            </category>
+            
+        </category>
+        
+    </taxonomy>
+
