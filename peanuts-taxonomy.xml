@@ -42,9 +42,22 @@
         </category>
         
         <category xml:id="seasons">
-            <category xml:id="fall">
+            <category xml:id="se-spring">
+                <catDesc>Spring</catDesc>
+            </category>
+            
+            <category xml:id="se-summer">
+                <catDesc>Summer</catDesc>
+            </category>
+            
+            <category xml:id="se-fall">
                 <catDesc>Fall</catDesc>
             </category>
+            
+            <category xml:id="se-winter">
+                <catDesc>Winter</catDesc>
+            </category>
+            
         </category>
         
         
@@ -77,6 +90,11 @@
             <category xml:id="non-seq">
                 <catDesc>non-sequitur</catDesc>
             </category>
+            
+        </category>
+    
+        <category xml:id="themes">
+            
             
         </category>
         
