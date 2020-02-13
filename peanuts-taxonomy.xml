@@ -97,6 +97,30 @@
             
             
         </category>
+    
+        <category xml:id="responsibility">
+            
+            <category xml:id="r-BC">
+                <catDesc>Brian Croxall</catDesc>
+            </category>
+            
+            <category xml:id="r-CB">
+                <catDesc>Cynthia Beck</catDesc>
+            </category>
+            
+            <category xml:id="r-LB">
+                <catDesc>Lindsay Boyden</catDesc>
+            </category>
+            
+            <category xml:id="r-MG">
+                <catDesc>Melina Galvez</catDesc>
+            </category>
+            
+            <category xml:id="r-TW">
+                <catDesc>Talia Woffinden</catDesc>
+            </category>
+            
+        </category>
         
     </taxonomy>
 
