@@ -75,6 +75,9 @@
                 <catDesc>playground activities, including swings, teeter-totters, etc.</catDesc>
             </category>
             
+            <category xml:id="a-music">
+                <catDesc>making music of one kind or another</catDesc>
+            </category>
             
         </category>
         
