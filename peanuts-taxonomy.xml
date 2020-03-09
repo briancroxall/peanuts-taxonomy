@@ -41,25 +41,42 @@
             
         </category>
         
-        <category xml:id="seasons">
-            <category xml:id="se-spring">
-                <catDesc>Spring</catDesc>
+        <category xml:id="weather">
+            <category xml:id="w-rain">
+                <catDesc>Rain</catDesc>
             </category>
             
-            <category xml:id="se-summer">
-                <catDesc>Summer</catDesc>
+            <category xml:id="w-snow">
+                <catDesc>Snow</catDesc>
             </category>
             
-            <category xml:id="se-fall">
-                <catDesc>Fall</catDesc>
-            </category>
-            
-            <category xml:id="se-winter">
-                <catDesc>Winter</catDesc>
+            <category xml:id="w-wind">
+                <catDesc>Wind</catDesc>
             </category>
             
         </category>
         
+    
+        <category xml:id="activities">
+            
+            <category xml:id="a-baseball">
+                <catDesc>baseball</catDesc>
+            </category>
+            
+            <category xml:id="a-football">
+                <catDesc>football</catDesc>
+            </category>
+            
+            <category xml:id="a-checkers">
+                <catDesc>checkers</catDesc>
+            </category>
+            
+            <category xml:id="a-playground">
+                <catDesc>playground activities, including swings, teeter-totters, etc.</catDesc>
+            </category>
+            
+            
+        </category>
         
         <category xml:id="settings">
             
@@ -91,12 +108,7 @@
                 <catDesc>non-sequitur</catDesc>
             </category>
             
-        </category>
-    
-        <category xml:id="themes">
-            
-            
-        </category>
+
     
         <category xml:id="responsibility">
             
