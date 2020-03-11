@@ -159,6 +159,13 @@
             </category>
         </category>
 
+        <category xml:id="visual-aspects">
+            
+            <category xml:id="v-sil">
+                <catDesc>Silhouetting</catDesc>
+            </category>
+            
+        </category>
     
         <category xml:id="responsibility">
             
