@@ -39,6 +39,22 @@
                 <catDesc>Sally Brown</catDesc>
             </category>
             
+            <category xml:id="c-ws">
+                <catDesc>Woodstock</catDesc>
+            </category>
+            
+            <category xml:id="c-pp">
+                <catDes>Peppermint Patty</catDes>
+            </category>
+            
+            <category xml:id="c-marcie">
+                <catDesc>Marcie</catDesc>
+            </category>
+            
+            <category xml:id="c-anon">
+                <catDesc>Anonymous kid</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
