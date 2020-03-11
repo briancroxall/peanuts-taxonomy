@@ -44,7 +44,7 @@
             </category>
             
             <category xml:id="c-pp">
-                <catDes>Peppermint Patty</catDes>
+                <catDesc>Peppermint Patty Reichardt</catDesc>
             </category>
             
             <category xml:id="c-marcie">
@@ -95,9 +95,40 @@
                 <catDesc>making music of one kind or another</catDesc>
             </category>
             
+            <category xml:id="a-hockey">
+                <catDesc>Hockey</catDesc>
+            </category>
+            
+            <category xml:id="a-ice-skating">
+                <catDesc>Ice skating</catDesc>
+            </category>
+            
+            <category xml:id="a-writing">
+                <catDesc>Writing, including typewriting</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="settings">
+            <category xml:id="s-inside">
+                <catDesc>Inside</catDesc>
+            </category>
+            
+            <category xml:id="s-outside">
+                <catDesc>Outside</catDesc>
+            </category>
+            
+            <category xml:id="s-night">
+                <catDesc>Night</catDesc>
+            </category>
+            
+            <category xml:id="s-school">
+                <catDesc>School</catDesc>
+            </category>
+            
+            <category xml:id="s-doghouse">
+                <catDesc>Doghouse</catDesc>
+            </category>
             
         </category>
     
