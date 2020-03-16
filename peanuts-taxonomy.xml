@@ -55,6 +55,14 @@
                 <catDesc>Anonymous kid</catDesc>
             </category>
             
+            <category xml:id="c-franklin">
+                <catDesc>Franklin</catDesc>
+            </category>
+            
+            <category xml:id="c-offpanel">
+                <catDesc>Off-panel speech</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
@@ -166,10 +174,8 @@
             </category>
             
             <category xml:id="v-dark">
-                <catDesc>Dark backgrounds</catDesc>
+                <catDesc>Dark background</catDesc>
             </category>
-            
-        </category>
     
         <category xml:id="responsibility">
             
