@@ -180,6 +180,8 @@
             <category xml:id="v-dark">
                 <catDesc>Dark background</catDesc>
             </category>
+            
+        </category>
     
         <category xml:id="responsibility">
             
