@@ -165,6 +165,10 @@
                 <catDesc>Silhouetting</catDesc>
             </category>
             
+            <category xml:id="v-dark">
+                <catDesc>Dark backgrounds</catDesc>
+            </category>
+            
         </category>
     
         <category xml:id="responsibility">
