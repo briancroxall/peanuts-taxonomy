@@ -115,6 +115,10 @@
                 <catDesc>Writing, including typewriting</catDesc>
             </category>
             
+            <category xml:id="a-reading">
+                <catDesc>Reading</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="settings">
