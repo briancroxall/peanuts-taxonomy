@@ -183,6 +183,19 @@
             
         </category>
     
+        <category xml:id="bechdel-test">
+            
+            <category xml:id="bechdel-pass">
+                <catDesc>Passes the Bechdel test</catDesc>
+            </category>
+            
+            <category xml:id="bechdel-fail">
+                <catDesc>Fails the Bechdel test</catDesc>
+            </category>
+            
+        </category>
+    
+    
         <category xml:id="responsibility">
             
             <category xml:id="r-BC">
