@@ -119,6 +119,18 @@
                 <catDesc>Reading</catDesc>
             </category>
             
+            <category xml:id="a-darts">
+                <catDesc>Darts</catDesc>
+            </category>
+            
+            <category xml:id="a-media">
+                <catDesc>Media consumption</catDesc>
+            </category>
+            
+            <category xml:id="a-bowling">
+                <catDesc>Bowling</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="settings">
