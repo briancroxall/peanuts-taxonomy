@@ -131,6 +131,10 @@
                 <catDesc>Bowling</catDesc>
             </category>
             
+            <category xml:id="a-eating">
+                <catDesc>Eating</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="settings">
