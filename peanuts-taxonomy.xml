@@ -242,6 +242,22 @@
                 <catDesc>Talia Woffinden</catDesc>
             </category>
             
+            <category xml:id="r-HJ">
+                <catDesc>Hannah Johnson</catDesc>
+            </category>
+            
+            <category xml:id="r-AL">
+                <catDesc>Allision Lasswell</catDesc>
+            </category>
+            
+            <category xml:id="r-DM">
+                <catDesc>Drew Monteiro</catDesc>
+            </category>
+            
+            <category xml:id="r-KS">
+                <catDesc>Kate Staker</catDesc>
+            </category>
+            
         </category>
         
     </taxonomy>
