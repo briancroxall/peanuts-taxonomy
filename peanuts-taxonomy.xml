@@ -135,6 +135,10 @@
                 <catDesc>Eating</catDesc>
             </category>
             
+            <category xml:id="a-golf">
+                <catDesc>Golf</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="settings">
