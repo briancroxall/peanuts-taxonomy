@@ -139,6 +139,26 @@
                 <catDesc>Golf</catDesc>
             </category>
             
+            <category xml:id="a-swimming">
+                <catDesc>Swimming</catDesc>
+            </category>
+            
+            <category xml:id="a-sledding">
+                <catDesc>Sledding</catDesc>
+            </category>
+            
+            <category xml:id="a-phone">
+                <catDesc>Talking on the phone</catDesc>
+            </category>
+            
+            <category xml:id="a-building">
+                <catDesc>Building</catDesc>
+            </category>
+            
+            <category xml:id="a-makebelieve">
+                <catDesc>Make believe</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="settings">
