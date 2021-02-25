@@ -95,6 +95,10 @@
                 <catDesc>checkers</catDesc>
             </category>
             
+            <category xml:id="a-fishing">
+                <catDesc>fishing</catDesc>
+            </category>
+            
             <category xml:id="a-playground">
                 <catDesc>playground activities, including swings, teeter-totters, etc.</catDesc>
             </category>
@@ -168,6 +172,10 @@
             
             <category xml:id="s-outside">
                 <catDesc>Outside</catDesc>
+            </category>
+            
+            <category xml:id="s-frozenpond">
+                <catDesc>Frozen pond</catDesc>
             </category>
             
             <category xml:id="s-night">
