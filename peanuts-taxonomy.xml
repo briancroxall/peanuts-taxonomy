@@ -63,6 +63,10 @@
                 <catDesc>Off-panel speech</catDesc>
             </category>
             
+            <category xml:id="c-anondog">
+                <catDesc>Anonymous dog</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
