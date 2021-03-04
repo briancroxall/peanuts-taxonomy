@@ -167,6 +167,18 @@
                 <catDesc>Make believe</catDesc>
             </category>
             
+            <category xml:id="a-horseshoes">
+                <catDesc>Horseshoes</catDesc>
+            </category>
+            
+            <category xml:id="a-croquet">
+                <catDesc>Croquet</catDesc>
+            </category>
+            
+            <category xml:id="a-cards">
+                <catDesc>Card play</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="settings">
