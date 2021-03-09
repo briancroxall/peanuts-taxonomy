@@ -179,6 +179,10 @@
                 <catDesc>Card play</catDesc>
             </category>
             
+            <category xml:id="a-cycling">
+                <catDesc>Cycling, including bicycling, tricycling, and unicycling</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="settings">
