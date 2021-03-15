@@ -67,6 +67,10 @@
                 <catDesc>Anonymous dog</catDesc>
             </category>
             
+            <category xml:id="c-lrhg">
+                <catDesc>Little red-haired girl</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
