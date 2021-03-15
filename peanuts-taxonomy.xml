@@ -183,6 +183,10 @@
                 <catDesc>Cycling, including bicycling, tricycling, and unicycling</catDesc>
             </category>
             
+            <category xml:id="a-puzzle">
+                <catDesc>Putting together a puzzle</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="settings">
