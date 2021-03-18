@@ -230,6 +230,10 @@
                 <catDesc>Movie theater, either interior or exterior</catDesc>
             </category>
             
+            <category xml:id="s-mailbox">
+                <catDesc>A mailbox</catDesc>
+            </category>
+            
         </category>
     
         <category xml:id="transitions"><!-- A list of transitions as designated by Scott McCloud in Understanding Comics, ch. 3  -->
