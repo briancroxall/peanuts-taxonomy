@@ -191,6 +191,14 @@
                 <catDesc>Putting together a puzzle</catDesc>
             </category>
             
+            <category xml:id="a-skiing">
+                <catDesc>Skiing (snow or water)</catDesc>
+            </category>
+            
+            <category xml:id="a-dancing">
+                <catDesc>Dancing</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="settings">
@@ -236,6 +244,18 @@
             
             <category xml:id="s-psych">
                 <catDesc>Psychiatrist's booth</catDesc>
+            </category>
+            
+            <category xml:id="s-store">
+                <catDesc>A store</catDesc>
+            </category>
+            
+            <category xml:id="s-carnival">
+                <catDesc>A carnival</catDesc>
+            </category>
+            
+            <category xml:id="s-camp">
+                <catDesc>Camp</catDesc>
             </category>
             
         </category>
