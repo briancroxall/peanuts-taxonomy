@@ -291,6 +291,78 @@
             </category>
         </category>
 
+        <category xml:id="holidays">
+            
+            <category xml:id="h-season">
+                <catDesc>Season change</catDesc>
+            </category>
+            
+            <category xml:id="h-ny">
+                <catDesc>New Years</catDesc>
+            </category>
+            
+            <category xml:id="h-val">
+                <catDesc>Valentine's Day</catDesc>
+            </category>
+            
+            <category xml:id="h-presday">
+                <catDesc>President's Day</catDesc>
+            </category>
+            
+            <category xml:id="h-stpat">
+                <catDesc>St. Patrick's Day</catDesc>
+            </category>
+            
+            <category xml:id="h-aprilfools">
+                <catDesc>April Fool's</catDesc>
+            </category>
+            
+            <category xml:id="h-easter">
+                <catDesc>Easter</catDesc>
+            </category>
+            
+            <category xml:id="h-mom">
+                <catDesc>Mother's Day</catDesc>
+            </category>
+            
+            <category xml:id="h-memorial">
+                <catDesc>Memorial Day</catDesc>
+            </category>
+            
+            <category xml:id="h-dad">
+                <catDesc>Father's Day</catDesc>
+            </category>
+            
+            <category xml:id="h-4july">
+                <catDesc>Fourth of July</catDesc>
+            </category>
+            
+            <category xml:id="h-labor">
+                <catDesc>Labor Day</catDesc>
+            </category>
+            
+            <category xml:id="h-1stday">
+                <catDesc>First day of school</catDesc>
+            </category>
+            
+            <category xml:id="h-halloween">
+                <catDesc>Halloween</catDesc>
+            </category>
+            
+            <category xml:id="h-vets">
+                <catDesc>Veteran's Day</catDesc>
+            </category>
+            
+            <category xml:id="h-thanks">
+                <catDesc>Thanksgiving</catDesc>
+            </category>
+            
+            <category xml:id="h-christmas">
+                <catDesc>Christmas</catDesc>
+            </category>
+        </category>
+    
+    
         <category xml:id="visual-aspects">
             
             <category xml:id="v-sil">
