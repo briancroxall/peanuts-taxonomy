@@ -67,8 +67,16 @@
                 <catDesc>Anonymous dog</catDesc>
             </category>
             
+            <category xml:id="c-anonbird">
+                <catDesc>Anonymous bird</catDesc>
+            </category>
+            
             <category xml:id="c-lrhg">
                 <catDesc>Little red-haired girl</catDesc>
+            </category>
+            
+            <category xml:id="c-hs">
+                <catDesc>Helen Sweetstory</catDesc>
             </category>
             
         </category>
