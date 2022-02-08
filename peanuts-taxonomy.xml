@@ -438,6 +438,30 @@
                 <catDesc>Kate Staker</catDesc>
             </category>
             
+            <category xml:id="r-MA">
+                <catDesc>Maria Archibald</catDesc>
+            </category>
+            
+            <category xml:id="r-JA">
+                <catDesc>Jane Athay</catDesc>
+            </category>
+            
+            <category xml:id="r-SE">
+                <catDesc>Sarah Emmett</catDesc>
+            </category>
+            
+            <category xml:id="r-AK">
+                <catDesc>Ashlin Kaufman</catDesc>
+            </category>
+            
+            <category xml:id="r-JO">
+                <catDesc>Jenni Overy</catDesc>
+            </category>
+            
+            <category xml:id="r-AR">
+                <catDesc>Allie Rawlings</catDesc>
+            </category>
+            
         </category>
         
     </taxonomy>
