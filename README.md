@@ -4,4 +4,4 @@ This repo contains a taxonomy for the TEI/CBML encoding of Peanuts comic strips 
 
 ## Credits
 
-The initial draft of the template was prepared by [Elli Mylonas](https://github.com/emylonas) who has continued consulting on the project. 
+The initial draft of the taxonomy was prepared by [Elli Mylonas](https://github.com/emylonas) who has continued consulting on the project. 
