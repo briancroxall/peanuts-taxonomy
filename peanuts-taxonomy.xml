@@ -79,6 +79,10 @@
                 <catDesc>Helen Sweetstory</catDesc>
             </category>
             
+            <category xml:id="c-recordplayer"
+                <catDesc>Record player</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
@@ -206,7 +210,11 @@
             <category xml:id="a-dancing">
                 <catDesc>Dancing</catDesc>
             </category>
-            
+           
+            <category xml:id="a-jumprope">
+                <catDesc>Jumping rope</catDesc>
+            </category>
+           
         </category>
         
         <category xml:id="settings">
@@ -367,6 +375,10 @@
             
             <category xml:id="h-christmas">
                 <catDesc>Christmas</catDesc>
+            </category>
+            
+            <category xml:id="h-groundhog">
+                <catDesc>Ground Hog's Day</catDesc>
             </category>
         </category>
     
