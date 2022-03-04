@@ -214,6 +214,10 @@
             <category xml:id="a-jumprope">
                 <catDesc>Jumping rope</catDesc>
             </category>
+            
+            <category xml:id="a-photography">
+                <catDesc>Photography</catDesc>
+            </category>
            
         </category>
         
