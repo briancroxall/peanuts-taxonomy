@@ -218,6 +218,10 @@
             <category xml:id="a-photography">
                 <catDesc>Photography</catDesc>
             </category>
+            
+            <category xml:id="a-tennis">
+                <catDesc>Tennis</catDesc>
+            </category>
            
         </category>
         
@@ -280,6 +284,10 @@
             
             <category xml:id="s-wall">
                 <catDesc>A wall</catDesc>
+            </category>
+            
+            <category xml:id="s-tenniscourt">
+                <catDesc>Tennis court</catDesc>
             </category>
             
         </category>
