@@ -91,6 +91,10 @@
                 <catDesc>Any piano that is assigned speech bubbles</catDesc>
             </category>
             
+            <category xml:id="c-radio">
+                <catDesc>Any radio that is assigned speech bubbles</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
