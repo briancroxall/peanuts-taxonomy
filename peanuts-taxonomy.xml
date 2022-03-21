@@ -83,6 +83,14 @@
                 <catDesc>Record player</catDesc>
             </category>
             
+            <category xml:id="c-toy">
+                <catDesc>Any toy that speaks, for the purposes of speech bubbles</catDesc>
+            </category>
+            
+            <category xml:id="c-piano">
+                <catDesc>Any piano that is assigned speech bubbles</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
