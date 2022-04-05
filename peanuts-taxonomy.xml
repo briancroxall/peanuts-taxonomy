@@ -306,6 +306,10 @@
                 <catDesc>A tree, where the characters lean against it.</catDesc>
             </category>
             
+            <category xml:id="s-bus">
+                <catDesc>Comics set on a school bus.</catDesc>
+            </category>
+            
         </category>
     
         <category xml:id="transitions"><!-- A list of transitions as designated by Scott McCloud in Understanding Comics, ch. 3  -->
