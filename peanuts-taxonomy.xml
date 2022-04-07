@@ -95,6 +95,18 @@
                 <catDesc>Any radio that is assigned speech bubbles</catDesc>
             </category>
             
+            <category xml:id="c-dad">
+                <catDesc>Any dad that is mentioned in the strip</catDesc>
+            </category>
+            
+            <category xml:id="c-mom">
+                <catDesc>Any mom that is mentioned in the strip</catDesc>
+            </category>
+            
+            <category xml:id="c-js">
+                <catDesc>Joe Shlabotnik</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
