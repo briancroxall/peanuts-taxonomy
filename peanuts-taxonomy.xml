@@ -246,6 +246,14 @@
             <category xml:id="a-tennis">
                 <catDesc>Tennis</catDesc>
             </category>
+            
+            <category xml:id="a-kite">
+                <catDesc>Kite flying and related activities</catDesc>
+            </category>
+            
+            <category xml:id="a-sleeping">
+                <catDesc>Sleeping</catDesc>
+            </category>
            
         </category>
         
@@ -435,6 +443,10 @@
             
             <category xml:id="v-dark">
                 <catDesc>Dark background</catDesc>
+            </category>
+            
+            <category xml:id="v-interpanel">
+                <catDesc>Something crosses a panel boundary in the strip</catDesc>
             </category>
             
         </category>
