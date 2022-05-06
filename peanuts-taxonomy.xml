@@ -107,6 +107,14 @@
                 <catDesc>Joe Shlabotnik</catDesc>
             </category>
             
+            <category xml:id="c-spike">
+                <catDesc>Spike</catDesc>
+            </category>
+            
+            <category xml:id="c-pj">
+                <catDesc>Peggy Jean</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
