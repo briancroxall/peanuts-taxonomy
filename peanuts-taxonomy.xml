@@ -115,6 +115,18 @@
                 <catDesc>Peggy Jean</catDesc>
             </category>
             
+            <category xml:id="c-anonadult">
+                <catDesc>Anonymous or unknown adult</catDesc>
+            </category>
+            
+            <category xml:id="c-larry">
+                <catDesc>Larry, the minister's son</catDesc>
+            </category>
+            
+            <category xml:id="c-lydia">
+                <catDesc>Lydia</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
@@ -298,8 +310,8 @@
                 <catDesc>Snow on the ground</catDesc>
             </category>
             
-            <category xml:id="s-movies">
-                <catDesc>Movie theater, either interior or exterior</catDesc>
+            <category xml:id="s-theater">
+                <catDesc>Comics set in a theater, either interior or exterior; often a movie, but also musical performances, etc.</catDesc>
             </category>
             
             <category xml:id="s-mailbox">
@@ -335,7 +347,31 @@
             </category>
             
             <category xml:id="s-bus">
-                <catDesc>Comics set on a school bus.</catDesc>
+                <catDesc>Comics set on a school bus or near a bus stop.</catDesc>
+            </category>
+            
+            <category xml:id="s-desert">
+                <catDesc>Comics set in a desert.</catDesc>
+            </category>
+            
+            <category xml:id="s-warzone">
+                <catDesc>Comics set in a war zone, such as those the WWI flying ace experiences.</catDesc>
+            </category>
+            
+            <category xml:id="s-nest">
+                <catDesc>Comics set in next, often Woodstock's.</catDesc>
+            </category>
+            
+            <category xml:id="s-beach">
+                <catDesc>Comics set on a beach.</catDesc>
+            </category>
+            
+            <category xml:id="s-golf">
+                <catDesc>Comics set on a golf course.</catDesc>
+            </category>
+            
+            <category xml:id="s-water">
+                <catDesc>Comics where there is so much water it becomes constitutive of a setting (on a boat, where the water is visible). </catDesc>
             </category>
             
         </category>
