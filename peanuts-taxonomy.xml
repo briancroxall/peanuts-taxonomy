@@ -127,6 +127,11 @@
                 <catDesc>Lydia</catDesc>
             </category>
             
+            <category xml:id="c-object">
+                <catDesc>Any object that speaks, for the purposes of speech bubbles, provided a more specific object does not exist above</catDesc>
+            </category>
+            
+            
         </category>
         
         <category xml:id="weather">
@@ -491,6 +496,10 @@
             
             <category xml:id="v-interpanel">
                 <catDesc>Something crosses a panel boundary in the strip</catDesc>
+            </category>
+            
+            <category xml:id="v-style-departure">
+                <catDesc>A strip that includes a departure from Schulz's normal visual style</catDesc>
             </category>
             
         </category>
