@@ -381,7 +381,7 @@
             
         </category>
     
-        <category xml:id="transitions"><!-- A list of transitions as designated by Scott McCloud in Understanding Comics, ch. 3  -->
+        <category xml:id="transitions"><!-- A list of transitions as designated by Scott McCloud in Understanding Comics, ch. 3, as well as some of our own.  -->
             
             <category xml:id="tr-m2m">
                 <catDesc>moment-to-moment</catDesc>
@@ -405,6 +405,10 @@
             
             <category xml:id="tr-non-seq">
                 <catDesc>non-sequitur</catDesc>
+            </category>
+            
+            <category xml:id="tr-zoom">
+                <catDesc>A transition that relies on zooming</catDesc>
             </category>
         </category>
 
