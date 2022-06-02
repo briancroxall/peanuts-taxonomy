@@ -127,6 +127,11 @@
                 <catDesc>Lydia</catDesc>
             </category>
             
+            <category xml:id="c-rerun">
+                <catDesc>Rerun van Pelt</catDesc>
+            </category>
+            
+            
             <category xml:id="c-object">
                 <catDesc>Any object that speaks, for the purposes of speech bubbles, provided a more specific object does not exist above</catDesc>
             </category>
