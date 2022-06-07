@@ -131,11 +131,25 @@
                 <catDesc>Rerun van Pelt</catDesc>
             </category>
             
-            
             <category xml:id="c-object">
                 <catDesc>Any object that speaks, for the purposes of speech bubbles, provided a more specific object does not exist above</catDesc>
             </category>
             
+            <category xml:id="c-ace">
+                <catDesc>The WWI Flying Ace</catDesc>
+            </category>
+            
+            <category xml:id="c-cool">
+                <catDesc>Joe Cool</catDesc>
+            </category>
+            
+            <category xml:id="c-WF">
+                <catDesc>Any object that speaks, for the purposes of speech bubbles, provided a more specific object does not exist above</catDesc>
+            </category>
+            
+            <category xml:id="c-joe">
+                <catDesc>Any of Snoopy's </catDesc>
+            </category>
             
         </category>
         
