@@ -143,14 +143,6 @@
                 <catDesc>Joe Cool</catDesc>
             </category>
             
-            <category xml:id="c-WF">
-                <catDesc>Any object that speaks, for the purposes of speech bubbles, provided a more specific object does not exist above</catDesc>
-            </category>
-            
-            <category xml:id="c-joe">
-                <catDesc>Any of Snoopy's </catDesc>
-            </category>
-            
         </category>
         
         <category xml:id="weather">
