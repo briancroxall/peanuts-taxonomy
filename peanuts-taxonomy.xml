@@ -421,6 +421,10 @@
             <category xml:id="tr-zoom">
                 <catDesc>A transition that relies on zooming</catDesc>
             </category>
+            
+            <category xml:id="tr-title">
+                <catDesc>A transition that relies on zooming</catDesc>
+            </category>
         </category>
 
         <category xml:id="holidays">
