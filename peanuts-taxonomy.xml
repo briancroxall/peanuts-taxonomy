@@ -143,6 +143,10 @@
                 <catDesc>Joe Cool</catDesc>
             </category>
             
+            <category xml:id="c-tv">
+                <catDesc>A television</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
