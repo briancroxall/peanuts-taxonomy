@@ -294,6 +294,10 @@
             <category xml:id="a-sleeping">
                 <catDesc>Sleeping</catDesc>
             </category>
+            
+            <category xml:id="a-football-pull">
+                <catDesc>Pulling a football away</catDesc>
+            </category>
            
         </category>
         
