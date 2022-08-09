@@ -147,6 +147,10 @@
                 <catDesc>A television</catDesc>
             </category>
             
+            <category xml:id="c-gp">
+                <catDesc>The Great Pumpkin</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
@@ -298,6 +302,11 @@
             <category xml:id="a-football-pull">
                 <catDesc>Pulling a football away</catDesc>
             </category>
+           
+            <category xml:id="a-volleyball">
+                <catDesc>Volleyball</catDesc>
+            </category>
+            
            
         </category>
         
