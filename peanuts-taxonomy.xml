@@ -211,6 +211,10 @@
                 <catDesc>Reading</catDesc>
             </category>
             
+            <category xml:id="a-commerce">
+                <catDesc>Commerce, includes buying or selling things, the exchange/discussion of money (see 1952-08-03), or bartering/trading</catDesc>
+            </category>
+            
             <category xml:id="a-darts">
                 <catDesc>Darts</catDesc>
             </category>
@@ -405,6 +409,10 @@
             
             <category xml:id="s-water">
                 <catDesc>Comics where there is so much water it becomes constitutive of a setting (on a boat, where the water is visible). </catDesc>
+            </category>
+            
+            <category xml:id="s-restaurant">
+                <catDesc>Comics set in a restaurant, including make-believe restaurants</catDesc>
             </category>
             
         </category>
