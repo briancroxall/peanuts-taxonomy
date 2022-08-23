@@ -315,6 +315,10 @@
                 <catDesc>Volleyball</catDesc>
             </category>
             
+            <category xml:id="a-visual-art">
+                <catDesc>Visual art, including drawing</catDesc>
+            </category>
+            
            
         </category>
         
