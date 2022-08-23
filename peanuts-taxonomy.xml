@@ -151,6 +151,10 @@
                 <catDesc>The Great Pumpkin</catDesc>
             </category>
             
+            <category xml:id="c-5">
+                <catDesc>5, the kid whose father named him with a number</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
