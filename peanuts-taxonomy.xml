@@ -155,6 +155,10 @@
                 <catDesc>5, the kid whose father named him with a number</catDesc>
             </category>
             
+            <category xml:id="c-school">
+                <catDesc>The school building, which talks to Sally.</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
