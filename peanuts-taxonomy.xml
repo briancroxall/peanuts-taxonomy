@@ -159,6 +159,14 @@
                 <catDesc>The school building, which talks to Sally.</catDesc>
             </category>
             
+            <category xml:id="c-school">
+                <catDesc>The school building, which talks to Sally.</catDesc>
+            </category>
+            
+            <category xml:id="c-redbaron">
+                <catDesc>The Red Baron</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
