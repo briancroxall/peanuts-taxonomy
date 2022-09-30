@@ -167,6 +167,10 @@
                 <catDesc>The Red Baron</catDesc>
             </category>
             
+            <category xml:id="c-anonanimal">
+                <catDesc>An anonymous animal that is not a dog or bird.</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
@@ -195,8 +199,8 @@
                 <catDesc>football</catDesc>
             </category>
             
-            <category xml:id="a-checkers">
-                <catDesc>checkers</catDesc>
+            <category xml:id="a-boardgames">
+                <catDesc>Boardgames, including chess and checkers</catDesc>
             </category>
             
             <category xml:id="a-fishing">
