@@ -331,6 +331,10 @@
                 <catDesc>Visual art, including drawing</catDesc>
             </category>
             
+            <category xml:id="a-religion">
+                <catDesc>Religion, including the Great Pumpkin</catDesc>
+            </category>
+            
            
         </category>
         
@@ -433,6 +437,10 @@
             
             <category xml:id="s-restaurant">
                 <catDesc>Comics set in a restaurant, including make-believe restaurants</catDesc>
+            </category>
+            
+            <category xml:id="s-church">
+                <catDesc>Comics set in/outside a church</catDesc>
             </category>
             
         </category>
