@@ -335,6 +335,14 @@
                 <catDesc>Religion, including the Great Pumpkin</catDesc>
             </category>
             
+            <category xml:id="a-marbles">
+                <catDesc>Playing with marbles</catDesc>
+            </category>
+            
+            <category xml:id="a-toys">
+                <catDesc>Playing with toys that do not have more specific categories</catDesc>
+            </category>
+            
            
         </category>
         
