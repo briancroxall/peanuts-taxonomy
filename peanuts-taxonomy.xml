@@ -456,6 +456,15 @@
             </category>
             
             <category xml:id="s-church">
+                <catDesc>Comics set in or outside a church building</catDesc>
+            </category>
+            
+            <category xml:id="s-birdbath">
+                <catDesc>Comics set around a birdbath</catDesc>
+            </category>
+            
+            <category xml:id="s-sandbox">
+                <catDesc>Comics set in a sandbox</catDesc>
             </category>
             
         </category>
