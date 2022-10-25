@@ -215,8 +215,8 @@
                 <catDesc>Hockey</catDesc>
             </category>
             
-            <category xml:id="a-ice-skating">
-                <catDesc>Ice skating</catDesc>
+            <category xml:id="a-skating">
+                <catDesc>Skating, including ice- and roller-</catDesc>
             </category>
             
             <category xml:id="a-writing">
@@ -341,6 +341,14 @@
             
             <category xml:id="a-toys">
                 <catDesc>Playing with toys that do not have more specific categories</catDesc>
+            </category>
+            
+            <category xml:id="a-boxing">
+                <catDesc>Boxing, including kick boxing</catDesc>
+            </category>
+            
+            <category xml:id="a-darts">
+                <catDesc>Darts</catDesc>
             </category>
             
            
