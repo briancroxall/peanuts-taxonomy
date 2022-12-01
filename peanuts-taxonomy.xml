@@ -466,6 +466,10 @@
                 <catDesc>Comics set in a sandbox</catDesc>
             </category>
             
+            <category xml:id="s-pool">
+                <catDesc>Comics set in/around a pool, including inflatable pools</catDesc>
+            </category>
+            
         </category>
     
         <category xml:id="transitions"><!-- A list of transitions as designated by Scott McCloud in Understanding Comics, ch. 3, as well as some of our own.  -->
