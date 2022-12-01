@@ -499,7 +499,7 @@
             </category>
             
             <category xml:id="tr-title">
-                <catDesc>A transition that relies on zooming</catDesc>
+                <catDesc>A transition from the first panel of a Sunday strip that is a doodle to the rest of the strip, see https://www.gocomics.com/peanuts/1991/08/11 for an example</catDesc>
             </category>
         </category>
 
@@ -579,6 +579,10 @@
             
             <category xml:id="h-groundhog">
                 <catDesc>Ground Hog's Day</catDesc>
+            </category>
+            
+            <category xml:id="h-birthday">
+                <catDesc>Birthday</catDesc>
             </category>
         </category>
     
