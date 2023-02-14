@@ -690,6 +690,26 @@
                 <catDesc>Allie Rawlings</catDesc>
             </category>
             
+            <category xml:id="r-LB">
+                <catDesc>Lillian Bills</catDesc>
+            </category>
+            
+            <category xml:id="r-RH">
+                <catDesc>Rachel Harper</catDesc>
+            </category>
+            
+            <category xml:id="r-WJ">
+                <catDesc>Winthrop Jeanfreau</catDesc>
+            </category>
+            
+            <category xml:id="r-WM">
+                <catDesc>William McFarland</catDesc>
+            </category>
+            
+            <category xml:id="r-WP">
+                <catDesc>Washington Pearce</catDesc>
+            </category>
+            
         </category>
         
     </taxonomy>
