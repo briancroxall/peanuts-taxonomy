@@ -179,6 +179,10 @@
                 <catDesc>Frieda's cat</catDesc>
             </category>
             
+            <category xml:id="c-pigpen">
+                <catDesc>Pig-Pen</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
