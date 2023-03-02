@@ -171,6 +171,14 @@
                 <catDesc>The cactus that Spike speaks to.</catDesc>
             </category>
             
+            <category xml:id="c-frieda">
+                <catDesc>Frieda</catDesc>
+            </category>
+            
+            <category xml:id="c-faron">
+                <catDesc>Frieda's cat</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
