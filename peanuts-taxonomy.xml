@@ -362,6 +362,10 @@
             <category xml:id="a-boxing">
                 <catDesc>Boxing, including kick boxing</catDesc>
             </category>
+            
+            <category xml:id="a-stargazing">
+                <catDesc>Stargazing</catDesc>
+            </category>
            
         </category>
         
@@ -480,6 +484,10 @@
             
             <category xml:id="s-pool">
                 <catDesc>Comics set in/around a pool, including inflatable pools</catDesc>
+            </category>
+            
+            <category xml:id="s-dugout">
+                <catDesc>Comics set in/around the baseball dugout, specifically shown by the bench</catDesc>
             </category>
             
         </category>
