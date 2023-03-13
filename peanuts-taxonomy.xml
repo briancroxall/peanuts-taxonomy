@@ -183,6 +183,10 @@
                 <catDesc>Pig-Pen</catDesc>
             </category>
             
+            <category xml:id="c-eudora">
+                <catDesc>Eudora</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
