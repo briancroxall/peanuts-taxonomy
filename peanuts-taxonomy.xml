@@ -638,6 +638,10 @@
                 <catDesc>A strip that includes a departure from Schulz's normal visual style</catDesc>
             </category>
             
+            <category xml:id="v-pun">
+                <catDesc>When a character interacts with a visual object that shouldn't be there.</catDesc>
+            </category>
+            
         </category>
     
         <category xml:id="bechdel-test">
