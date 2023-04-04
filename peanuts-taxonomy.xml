@@ -187,6 +187,10 @@
                 <catDesc>Eudora</catDesc>
             </category>
             
+            <category xml:id="c-richkid">
+                <catDesc>Joe Richkid</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
