@@ -747,6 +747,18 @@
                 <catDesc>Washington Pearce</catDesc>
             </category>
             
+            <category xml:id="r-EP">
+                <catDesc>Elijah Pearce</catDesc>
+            </category>
+            
+            <category xml:id="r-SM">
+                <catDesc>Scout McMillan</catDesc>
+            </category>
+            
+            <category xml:id="r-EJ">
+                <catDesc>Emily Johnson</catDesc>
+            </category>
+            
         </category>
         
     </taxonomy>
