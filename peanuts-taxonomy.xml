@@ -191,6 +191,10 @@
                 <catDesc>Joe Richkid</catDesc>
             </category>
             
+            <category xml:id="c-othmar">
+                <catDesc>Miss Othmar</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
