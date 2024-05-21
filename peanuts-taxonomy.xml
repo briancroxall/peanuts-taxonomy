@@ -378,6 +378,10 @@
             <category xml:id="a-stargazing">
                 <catDesc>Stargazing</catDesc>
             </category>
+            
+            <category xml:id="a-basketball">
+                <catDesc>Basketball</catDesc>
+            </category>
            
         </category>
         
