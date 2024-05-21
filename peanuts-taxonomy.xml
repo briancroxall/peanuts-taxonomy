@@ -510,6 +510,10 @@
                 <catDesc>Comics set around Schroeder's piano</catDesc>
             </category>
             
+            <category xml:id="s-pp">
+                <catDesc>Comics set in a pumpkin patch</catDesc>
+            </category>
+            
             
         </category>
     
