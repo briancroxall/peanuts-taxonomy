@@ -195,6 +195,14 @@
                 <catDesc>Miss Othmar</catDesc>
             </category>
             
+            <category xml:id="c-harriet">
+                <catDesc>Harriet, one of Snoopy's Beagle Scouts</catDesc>
+            </category>
+            
+            <category xml:id="c-olivier">
+                <catDesc>Olivier, one of Snoopy's Beagle Scouts</catDesc>
+            </category>
+            
         </category>
         
         <category xml:id="weather">
