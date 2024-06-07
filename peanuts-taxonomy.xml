@@ -682,6 +682,10 @@
                 <catDesc>Fails the Bechdel test</catDesc>
             </category>
             
+            <category xml:id="bechdel-uncertain">
+                <catDesc>Status on Bechdel test uncertain</catDesc>
+            </category>
+            
         </category>
     
     
